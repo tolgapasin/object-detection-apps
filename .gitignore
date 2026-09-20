@@ -2,6 +2,9 @@
 *.pt
 *.mp4
 
+### Mac
+.DS_Store
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
