@@ -18,3 +18,5 @@ pip install ultralytics
 Go to https://github.com/akanametov/yolo-face scroll down to the "Models" section and download yolov11n-face.pt and place it in the root directory
 
 Then, run main.py
+
+## Security Camera

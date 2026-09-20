@@ -1,5 +1,6 @@
 ### Project Specific ###
 *.pt
+*.mp4
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
